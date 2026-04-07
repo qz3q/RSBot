@@ -1,0 +1,8 @@
+RSBot.CommandCenter.Main.TabControl.TabPage.label1="Wpisz te komendy w czacie gry"
+RSBot.CommandCenter.Main.TabControl.TabPage.label2="<wkrótce>"
+RSBot.CommandCenter.Main.TabControl.tabPage1="Polecenia emocji"
+RSBot.CommandCenter.Main.TabControl.tabPage2="Polecenia czatu"
+RSBot.CommandCenter.Main.TabControl.tabPage3="Powiadomienia"
+RSBot.CommandCenter.Main.btnSave="Ratunek"
+RSBot.CommandCenter.Main.btnResetToDefaults="Wartość domyślna"
+RSBot.CommandCenter.Main.checkEnable="Włącz centrum komend"
