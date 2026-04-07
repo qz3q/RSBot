@@ -1,0 +1,7 @@
+DisplayName="Dziennik"
+RSBot.Log.Main.Panel.checkNormal="Normalne"
+RSBot.Log.Main.Panel.checkError="Błąd"
+RSBot.Log.Main.Panel.checkWarning="Ostrzeżenie"
+RSBot.Log.Main.Panel.checkDebug="Debug"
+RSBot.Log.Main.Panel.btnReset="Wyczyść"
+RSBot.Log.Main.Panel.checkEnabled="Włączone"
