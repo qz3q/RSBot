@@ -1,0 +1,8 @@
+DisplayName="Mapa"
+RSBot.Map.Main.label3="Ta funkcja nie działa gdy bot jest włączony.
+ Jeśli chcesz, aby bot automatycznie atakował podczas działania,
+ włącz unikanie."
+RSBot.Map.Main.checkBoxAutoSelectUniques="Automatycznie zaznacz Unique"
+RSBot.Map.Main.label4="Pokaż:"
+RSBot.Map.Main.lblRegion="Poza grą"
+NoName="<No name>"
