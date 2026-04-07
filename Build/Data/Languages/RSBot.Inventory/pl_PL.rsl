@@ -1,0 +1,13 @@
+DisplayName="Ekwipunek"
+RSBot.Inventory.Main.Panel.buttonUseItem="Użyj"
+RSBot.Inventory.Main.Panel.label1="Ekwipunek:"
+RSBot.Inventory.Main.Panel.label2="Wolne miejsca:"
+RSBot.Inventory.UseItemDialog.label2="Item który z twojej decyzji
+  możesz użyć. Otworzy się okno warunków
+gdzie możesz ustawić wymagane parametry."
+RSBot.Inventory.UseItemDialog.label1="Jeśli chcesz użyć itemu bezpośrednio,
+ poprostu kliknij przycisk"
+RSBot.Inventory.UseItemDialog.buttonCancel="Użyj z warunkami"
+RSBot.Inventory.UseItemDialog.buttonOk="Użyj bezpośrednio"
+RSBot.Inventory.Main.Panel.checkAutoSort="Auto sortowanie"
+RSBot.Inventory.Main.Panel.btnSort="Sort"
